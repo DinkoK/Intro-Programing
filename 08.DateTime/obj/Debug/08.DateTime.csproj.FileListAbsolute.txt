@@ -1,0 +1,6 @@
+c:\users\dinko\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.DateTime\bin\Debug\08.DateTime.exe.config
+c:\users\dinko\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.DateTime\obj\Debug\08.DateTime.csprojResolveAssemblyReference.cache
+c:\users\dinko\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.DateTime\bin\Debug\08.DateTime.exe
+c:\users\dinko\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.DateTime\bin\Debug\08.DateTime.pdb
+c:\users\dinko\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.DateTime\obj\Debug\08.DateTime.exe
+c:\users\dinko\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.DateTime\obj\Debug\08.DateTime.pdb
